@@ -1,0 +1,1 @@
+This project is a fact-checking website built using Flask and the OpenAI API. Users can paste a text claim into the text area in the website, and the website will check its accuracy using OpenAI. The OpenAI API key needed to access the AI is set in terminal. The frontend of the code was simply created using HTML.
